@@ -1,6 +1,6 @@
-# Teste Desenvolvedor Fullstack Node.JS
+# Teste Desenvolvedor Node.JS
 
-O teste tem o objetivo de demonstrar as capacidades técnicas de um Desenvolvedor Fullstack Node.JS, como o conhecimento, a organização e a adequação a boas práticas.
+O teste tem o objetivo de demonstrar as capacidades técnicas de um Desenvolvedor Node.JS, como o conhecimento, a organização e a adequação a boas práticas.
 
 Para concluir o teste, o desenvolvedor deverá criar uma aplicação web utilizando ReatJS que irá se integrar à uma API desenvolvida com Node.JS. Esta aplicação deve permitir que um usuário importe os dados cadastrais de um CSV e realize a manutenção destes dados.
 Ao final, o usuário poderá exportar um novo CSV com os dados atualizados seguindo o modelo do arquivo original.
